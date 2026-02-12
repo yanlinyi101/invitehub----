@@ -1,0 +1,7 @@
+name = "invitehub"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "invitehub-db"
+database_id = "your-database-id-placeholder" # Will be replaced by user

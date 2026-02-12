@@ -1,0 +1,5 @@
+{
+  "name": "InviteHub - 邀请码共享平台",
+  "description": "一个简洁高效的邀请码分享与领取平台。支持实时锁定功能，确保邀请码不被重复尝试，提升群友分享效率。",
+  "requestFramePermissions": []
+}
